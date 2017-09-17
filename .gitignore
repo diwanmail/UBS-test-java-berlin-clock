@@ -1,8 +1,8 @@
 /build/
 /bin/
-.classpath
-.gradle
-.metadata
-.project
-.settings
-RemoteSystemsTempFiles/.project
+/.classpath
+/.gradle
+/.metadata
+/.project
+/.settings
+/RemoteSystemsTempFiles/.project
